@@ -1,4 +1,4 @@
-Nougat vendor blobs from offical Cubot NOTE S V06
+Nougat vendor blobs from offical Cubot NOTE S V06 adapted for Leagoo Z5
 ---------------
 dont replace these files
 
